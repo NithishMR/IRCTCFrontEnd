@@ -14,14 +14,14 @@ export default function Discount() {
           <div className="grid lg:grid-cols-2 lg:gap-6 md:grid-cols-1 md:gap-8 sm:grid-cols-1 sm:gap-8 justify-around mt-6">
             <div className="pb-4">
               <img
-                src="./train.webp"
+                src="./Discount50.png"
                 alt="50% discount"
                 className="rounded-lg"
               />
             </div>
             <div className="pb-4">
               <img
-                src="./train.webp"
+                src="./Discount75.png"
                 alt="75% discount"
                 className="rounded-lg"
               />
